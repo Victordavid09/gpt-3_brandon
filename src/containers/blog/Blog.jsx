@@ -1,10 +1,10 @@
 import React from 'react';
-import '. blog.css';
+import './blog.css';
 
 const Blog = () => {
   return (
     <div>
-      Article
+      Blog
     </div>
   )
 }

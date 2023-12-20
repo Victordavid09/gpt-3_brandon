@@ -1,7 +1,7 @@
 import React from 'react';
-import './possiblity.css';
+import './possibility.css';
 
-const Possiblity = () => {
+const Possibility = () => {
   return (
     <div>
       Possiblity
@@ -9,4 +9,4 @@ const Possiblity = () => {
   )
 }
 
-export default Possiblity
+export default Possibility
